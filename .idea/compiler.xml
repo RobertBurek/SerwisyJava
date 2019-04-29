@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pl.robworkjava.AccountingModule" />
+        <module name="pl.robworkjava.HRModule" />
+        <module name="pl.robworkjava.MainModule" />
+        <module name="pl.robworkjava.PayrollService" />
+        <module name="pl.robworkjava.PolishPayroll" />
+        <module name="pl.robworkjava.SupplyModule" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Modules-example" target="10" />
+      <module name="pl.robworkjava.AccountingModule" target="10" />
+      <module name="pl.robworkjava.HRModule" target="10" />
+      <module name="pl.robworkjava.MainModule" target="10" />
+      <module name="pl.robworkjava.PayrollService" target="10" />
+      <module name="pl.robworkjava.PolishPayroll" target="10" />
+      <module name="pl.robworkjava.SupplyModule" target="10" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

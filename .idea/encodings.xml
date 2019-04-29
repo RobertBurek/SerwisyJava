@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.AccountingModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.HRModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.MainModule" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.PayrollService" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.PolishPayroll" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.robworkjava.SupplyModule" charset="UTF-8" />
+  </component>
 </project>
