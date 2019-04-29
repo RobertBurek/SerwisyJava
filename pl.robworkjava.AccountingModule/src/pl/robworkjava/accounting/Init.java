@@ -16,8 +16,8 @@ public class Init {
 
         LOG.info("Accounting Module has been initialized");
 
-        ServiceLoader<PayrollService> services = ServiceLoader.load(PayrollService.class);
-//        services.findFirst().ifPresent(PayrollService::getCurrency); zwraca Stringa
-        services.findFirst().ifPresent(serv->LOG.info(serv.getCurrency()));
+        PayrollService instance = PayrollService.getInstance();
+
+        LOG.info(instance.getCurrency());
     }
 }
