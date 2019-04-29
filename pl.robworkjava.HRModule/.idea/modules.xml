@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../pl.robworkjava.AccountingModule/pl.robworkjava.AccountingModule.iml" filepath="$PROJECT_DIR$/../pl.robworkjava.AccountingModule/pl.robworkjava.AccountingModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.HRModule.iml" filepath="$PROJECT_DIR$/pl.robworkjava.HRModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.robworkjava.MainModule/pl.robworkjava.MainModule.iml" filepath="$PROJECT_DIR$/../pl.robworkjava.MainModule/pl.robworkjava.MainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pl.robworkjava.SupplyModule/pl.robworkjava.SupplyModule.iml" filepath="$PROJECT_DIR$/../pl.robworkjava.SupplyModule/pl.robworkjava.SupplyModule.iml" />
+    </modules>
+  </component>
+</project>
