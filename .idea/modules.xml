@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.AccountingModule/pl.robworkjava.AccountingModule.iml" filepath="$PROJECT_DIR$/pl.robworkjava.AccountingModule/pl.robworkjava.AccountingModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.HRModule/pl.robworkjava.HRModule.iml" filepath="$PROJECT_DIR$/pl.robworkjava.HRModule/pl.robworkjava.HRModule.iml" />
       <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.MainModule/pl.robworkjava.MainModule.iml" filepath="$PROJECT_DIR$/pl.robworkjava.MainModule/pl.robworkjava.MainModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.PayrollService/pl.robworkjava.PayrollService.iml" filepath="$PROJECT_DIR$/pl.robworkjava.PayrollService/pl.robworkjava.PayrollService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.PolishPayroll/pl.robworkjava.PolishPayroll.iml" filepath="$PROJECT_DIR$/pl.robworkjava.PolishPayroll/pl.robworkjava.PolishPayroll.iml" />
       <module fileurl="file://$PROJECT_DIR$/pl.robworkjava.SupplyModule/pl.robworkjava.SupplyModule.iml" filepath="$PROJECT_DIR$/pl.robworkjava.SupplyModule/pl.robworkjava.SupplyModule.iml" />
     </modules>
   </component>
