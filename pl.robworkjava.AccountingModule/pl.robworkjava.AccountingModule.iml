@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="pl.robworkjava.PayrollService" />
+    <orderEntry type="module" module-name="pl.robworkjava.PolishPayroll" />
   </component>
 </module>
